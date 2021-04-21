@@ -264,7 +264,7 @@ We continue with checking the statsitics of our data. We start by taking
 average of *Height* by doing it manually before using *mean* function.
 We know that there are 20 observations/samples. Thus we first sum the
 values and divide them by 20.  
-\[\sum_{n=1}^{20} n / 20 \]
+\[\sum_{n=1}^{20} n / 20 \]. 
 
 ``` r
 sum(Height)/length(Height)
